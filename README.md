@@ -1,5 +1,5 @@
  
-![logo](https://github.com/Ahad188/Ahad188/blob/main/Premium%20Photo%20_%20Hacker%20in%20a%20jacket%20with%20a%20hood%20with%20a%20laptop%20sits%20at%20the%20table.jpeg)
+ 
    
 <h1 align="center">Hi 👋, I'm Md Abu Ahad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
